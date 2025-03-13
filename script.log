@@ -9,3 +9,37 @@ Listed files in directory '/home/kronos/Mini_Project/File_Dir_MP' on Wed Mar 12 
 Listed files in directory '/home/kronos/Mini_Project/File_Dir_MP' on Wed Mar 12 14:25:57 +07 2025
 Failed to list files in 'meme' on Wed Mar 12 14:58:48 +07 2025
 Failed to back up 'meme' to 'meeee' on Wed Mar 12 15:02:22 +07 2025
+Failed to count files in '0'. On Thu Mar 13 08:51:54 +07 2025
+Failed to list files in 'Mini_Project' on Thu Mar 13 12:13:01 +07 2025
+Thu Mar 13 12:15:32 +07 2025: Failed to list files in 'File_Dir_MP'
+Thu Mar 13 12:18:39 +07 2025: Failed to list files in '~/Mini_Project/File_Dir_MP'
+Thu Mar 13 12:20:02 +07 2025: Failed to list files in 'Mini_Project'
+Thu Mar 13 12:23:59 +07 2025: Failed to list files in '/home/kronos/Mini_Project/File_Dir_MP/Mini_Project'
+Thu Mar 13 12:24:12 +07 2025: Failed to list files in '/home/kronos/Mini_Project/File_Dir_MP/File_Dir_MP'
+Thu Mar 13 12:25:57 +07 2025: Failed to list files in '/home/kronos/Mini_Project/File_Dir_MP/Mini_Project'
+Thu Mar 13 12:26:06 +07 2025: Failed to list files in '/home/kronos/Mini_Project/File_Dir_MP/File_Dir_MP'
+Listed files in directory 'Mini_Project' on Thu Mar 13 12:27:33 +07 2025
+Listed files in directory 'File_Dir_MP' on Thu Mar 13 12:27:46 +07 2025
+Thu Mar 13 12:28:33 +07 2025: Failed to list files in '/home/kronos/Mini_Project/File_Dir_MP/~/Mini_Project/File_Dir_MP'
+Thu Mar 13 12:29:02 +07 2025: Failed to list files in '/Mini_Project/File_Dir_MP'
+Listed files in directory 'Mini_Project' on Thu Mar 13 12:30:15 +07 2025
+Listed files in directory 'File_Dir_MP' on Thu Mar 13 12:30:29 +07 2025
+Thu Mar 13 12:31:04 +07 2025: Listed files in directory '/home/kronos/Mini_Project/File_Dir_MP'.
+Thu Mar 13 12:31:17 +07 2025: Failed to list files in 'Mini_Project'
+Thu Mar 13 12:31:24 +07 2025: Failed to list files in 'File_Dir_MP'
+Thu Mar 13 12:31:33 +07 2025: Failed to list files in '/File_Dir_MP'
+Thu Mar 13 12:31:41 +07 2025: Listed files in directory '/home/kronos/Mini_Project'.
+Thu Mar 13 12:33:29 +07 2025: The directory '/home/kronos/Home' is empty.
+Thu Mar 13 12:33:40 +07 2025: Listed files in directory '/home/kronos/'.
+Thu Mar 13 12:34:08 +07 2025: Failed to list files in '0'
+Failed to back up '' to '' on Thu Mar 13 12:34:16 +07 2025
+Thu Mar 13 12:36:38 +07 2025: Failed to count files in ''.
+Thu Mar 13 12:38:51 +07 2025: Failed to count files in '~/Mini_Project/File_Dir_MP'.
+Thu Mar 13 12:41:57 +07 2025: Failed to count files in '~/Mini_Project/File_Dir_MP'.
+Thu Mar 13 12:43:16 +07 2025: Failed to count files in '~/Mini_Project/File_Dir_MP'.
+Thu Mar 13 12:43:55 +07 2025: Failed to count files in ':~/Mini_Project/File_Dir_MP'.
+Thu Mar 13 12:44:21 +07 2025: Counted files in '/home/kronos/Mini_Project/File_Dir_MP': 58 files.
+Thu Mar 13 12:44:36 +07 2025: Counted files in '/home/kronos/Mini_Project': 58 files.
+Thu Mar 13 12:44:47 +07 2025: Counted files in '/home/kronos/': 81 files.
+Thu Mar 13 12:46:33 +07 2025: Failed to back up '~/Mini_Project/File_Dir_MP/create_backup.sh' to '~/Mini_Project/File_Dir_MP'.
+Thu Mar 13 12:47:45 +07 2025: Successfully backed up '/home/kronos/Mini_Project/File_Dir_MP/create_backup.sh' to '/home/kronos/Mini_Project/File_Dir_MP'.
