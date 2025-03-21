@@ -43,3 +43,12 @@ Thu Mar 13 12:44:36 +07 2025: Counted files in '/home/kronos/Mini_Project': 58 f
 Thu Mar 13 12:44:47 +07 2025: Counted files in '/home/kronos/': 81 files.
 Thu Mar 13 12:46:33 +07 2025: Failed to back up '~/Mini_Project/File_Dir_MP/create_backup.sh' to '~/Mini_Project/File_Dir_MP'.
 Thu Mar 13 12:47:45 +07 2025: Successfully backed up '/home/kronos/Mini_Project/File_Dir_MP/create_backup.sh' to '/home/kronos/Mini_Project/File_Dir_MP'.
+Tue Mar 18 13:45:57 +07 2025: Failed to list files in 'Mini_Project'
+Tue Mar 18 13:46:10 +07 2025: Listed files in directory '/home/kronos/Mini_Project'.
+Fri Mar 21 15:01:49 +07 2025: Failed to check disk usage for '~/Mini_Project'.
+Fri Mar 21 15:03:23 +07 2025: Successfully checked disk usage for '/home/kronos/Mini_Project'.
+Fri Mar 21 15:03:50 +07 2025: Successfully checked disk usage for '/home/kronos/Mini_Project/File_Dir_MP'.
+Fri Mar 21 15:12:44 +07 2025: Successfully searched for '*.txt' in '/home/kronos/'
+Fri Mar 21 15:14:25 +07 2025: Successfully searched for '*.txt' in '/home/kronos/Home'
+Fri Mar 21 15:16:01 +07 2025: Successfully searched for '*.txt' in '/home/kronos/'
+Fri Mar 21 15:32:29 +07 2025: Successfully compressed file '/home/kronos/contents.txt' into 'content.zip'.
