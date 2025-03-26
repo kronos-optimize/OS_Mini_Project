@@ -33,7 +33,7 @@ First, clone the repository to your local machine:
 git clone https://github.com/kronos-optimize/OS_Mini_Project.git
 ```
 ```
-cd OS_Mini_Project
+cd OS_Mini_Project/menu
 ```
 ### 2. Make Script executable
 ```bash
