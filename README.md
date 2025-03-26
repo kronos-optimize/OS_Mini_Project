@@ -24,7 +24,7 @@ OS_Mini_Project/
 │ ├── compress.sh
 
 │-- README.md # Project documentation
-|-- script.log # Stores history of actions performed by users
+│-- script.log # Stores history of actions performed by users
 ```
 
 ## 👉🏻 create_backup.sh
