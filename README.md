@@ -24,5 +24,14 @@ Compresses the given files or directories to save space.
 ## 👉🏻 script.log
 Keeps a log of all actions performed by the users in a file named script.log located in the program's root directory.
 
+## Steps to Run the Code
+Follow the steps below to run the File and Directory Management program on your system:
+
+### 1. Clone the Repository
+First, clone the repository to your local machine:
+```bash
+git clone https://github.com/yourusername/file-management-script.git
+cd file-management-script
+
 Installation and Setup
 Clone the Repository
