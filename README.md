@@ -1,5 +1,5 @@
 # 𝐅𝐢𝐥𝐞 𝐚𝐧𝐝 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐏𝐫𝐨𝐠𝐫𝐚𝐦
-### Overview
+## Overview
 This project is a Bash-based File and Directory Management Program that provides various functionalities to manage files and directories efficiently. The program allows users to list file information, create backups, count files, check disk usage, search for files, compress files, and log user actions.
 
 ## Features
