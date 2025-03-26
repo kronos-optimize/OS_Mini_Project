@@ -21,7 +21,7 @@ Searches for a file by name or extension within a specified directory.
 ## 👉🏻 compress.sh
 Compresses the given files or directories to save space.
 
-## 👉🏻 Logging User Actions
+## 👉🏻 script.log
 Keeps a log of all actions performed by the users in a file named script.log located in the program's root directory.
 
 Installation and Setup
