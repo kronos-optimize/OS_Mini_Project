@@ -5,6 +5,27 @@ This project is a Bash-based File and Directory Management Program that provides
 ## 👉🏻 Features
 List Files and Sub-directories
 Displays detailed information about all files and sub-directories in a given directory.
+## Structure
+```bash
+OS_Mini_Project/
+
+│-- menu/
+
+│ ├── list_files.sh
+
+│ ├── create_backup.sh
+
+│ ├── count_files.sh
+
+│ ├── disk_usage.sh
+
+│ ├── search_file.sh
+
+│ ├── compress.sh
+
+│-- README.md # Project documentation
+|-- script.log # Stores history of actions performed by users
+```bash
 
 ## 👉🏻 create_backup.sh
 Creates backups of individual files or entire directories, with user input for backup source and destination.
