@@ -30,7 +30,7 @@ Follow the steps below to run the File and Directory Management program on your 
 ### 1. Clone the Repository
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/file-management-script.git
+git clone https://github.com/kronos-optimize/OS_Mini_Project.git
 cd file-management-script
 
 Installation and Setup
