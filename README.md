@@ -6,19 +6,19 @@ This project is a Bash-based File and Directory Management Program that provides
 List Files and Sub-directories
 Displays detailed information about all files and sub-directories in a given directory.
 
-## 👉🏻 Backup Creation
+## 👉🏻 create_backup.sh
 Creates backups of individual files or entire directories, with user input for backup source and destination.
 
-## 👉🏻 File Counting
+## 👉🏻 count_files.sh
 Counts and displays the total number of files in a given directory.
 
-## 👉🏻 Disk Usage Display
+## 👉🏻 disk_usage.sh
 Shows the disk usage statistics for a specified directory.
 
-## 👉🏻 File Search
+## 👉🏻 search_file.sh
 Searches for a file by name or extension within a specified directory.
 
-## 👉🏻 File/Directory Compression
+## 👉🏻 compress.sh
 Compresses the given files or directories to save space.
 
 ## 👉🏻 Logging User Actions
