@@ -11,13 +11,13 @@ if [ -f "$source_path" ]; then
 	#if file, create zip
 	zip "$zip_name" "$source_path"
 	echo "File '$source_path' compressed into '$zip_name'."
-	echo "$(date): Successfully compressed file '$source_path' into '$zip_name'." >> script.log
+	echo "$(date): Successfully compressed file '$source_path' into '$zip_name'." >> ../script.log
 elif [ -d "$source_path" ]; then
 	#if directory, create zip
 	zip -r "$zip_name" "$source_path"
 	echo "Directory '$source_path' compressed into '$zip_name'."
-	echo "$(date): Successfully compressed directory '$source_path' into '$zip_name'." >> script.log
+	echo "$(date): Successfully compressed directory '$source_path' into '$zip_name'." >> ../script.log
 else
 	echo "Invalid file or directory."
-	echo "Failed to compress file/directory." >> script.log
+	echo "Failed to compress file/directory." >> ../script.log
 fi
