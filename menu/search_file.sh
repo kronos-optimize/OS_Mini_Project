@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#prompts user for directory path
+#prompts user to chose directory path they want
 read -p "Enter directory path to search for a file: " dir_path
 dir_path=$(eval echo "$dir_path")
 
