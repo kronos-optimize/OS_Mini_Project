@@ -11,8 +11,8 @@ read -p "Enter the file name or extension to search for(e.g. *.txt): " file_ext
 if [ -d "$dir_path" ]; then
 	#search for file in directory
 	find "$dir_path" -type f -name "$file_ext"
-	echo "$(date): Successfully searched for '$file_ext' in '$dir_path'" >> script.log
+	echo "$(date): Successfully searched for '$file_ext' in '$dir_path'" >> ../script.log
 else
 	echo "Invalid directory path!"
-	echo "$(date): Failed to searched for '$file_ext' in '$dir_path'" >> script.log
+	echo "$(date): Failed to searched for '$file_ext' in '$dir_path'" >> ../script.log
 fi
