@@ -26,15 +26,15 @@ if [ -e "$source" ]; then
         # Check if the cp command was successful
         if [ $? -eq 0 ]; then  # Success
             # Log the action
-            echo "$(date): Successfully backed up '$source' to '$destination'." >> script.log
+            echo "$(date): Successfully backed up '$source' to '$destination'." >> ../script.log
         else  # Failure
-            echo "$(date): Failed to back up '$source' to '$destination'." >> script.log
+            echo "$(date): Failed to back up '$source' to '$destination'." >> ../script.log
         fi
     else
         echo "Invalid or non-writable destination: '$destination'"
-        echo "$(date): Failed to back up '$source' to '$destination'." >> script.log
+        echo "$(date): Failed to back up '$source' to '$destination'." >> ../script.log
     fi
 else
     echo "'$source' does not exist!"
-    echo "$(date): Failed to back up '$source' to '$destination'." >> script.log
+    echo "$(date): Failed to back up '$source' to '$destination'." >> ../script.log
 fi
