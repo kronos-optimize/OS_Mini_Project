@@ -9,8 +9,8 @@ dir_path=$(eval echo "$dir_path")
 if [ -d "$dir_path" ]; then
 	#displays disk usage
 	du -sh "$dir_path"
-	echo "$(date): Successfully checked disk usage for '$dir_path'." >> script.log
+	echo "$(date): Successfully checked disk usage for '$dir_path'." >> ../script.log
 else
 	echo "Invalid directory path!"
-	echo "$(date): Failed to check disk usage for '$dir_path'." >> script.log
+	echo "$(date): Failed to check disk usage for '$dir_path'." >> ../script.log
 fi
