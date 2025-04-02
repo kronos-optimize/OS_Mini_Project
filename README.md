@@ -41,7 +41,7 @@ Shows the disk usage statistics for a specified directory.
 Searches for a file by name or extension within a specified directory.
 
 ## 👉🏻 compress.sh
-Compresses the given files or directories to save space.
+Compresses is the given files or directories to save space.
 
 ## 👉🏻 script.log
 Keeps a log of all actions performed by the users in a file named script.log located in the program's root directory.
