@@ -61,7 +61,13 @@ cd OS_Mini_Project/menu
 ```bash
 chmod +x *.sh
 ```
-### 3. Usage
+### 3. Install Zip Library
+```bash
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
+choco install zip unzip
+```
+### 4. Usage
 ```bash
 ./menu.sh
 ```
